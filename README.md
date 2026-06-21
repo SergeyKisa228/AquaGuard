@@ -18,6 +18,9 @@ Status reports are repeated periodically (WARNING every 5 s, GOOD every 20 s
 - **RGB LED** 3× 220 Ω resistors
 - **Push button** (for system on/off)
 
+# Schematic ❗
+<img width="632" height="588" alt="Scematic" src="https://github.com/user-attachments/assets/93acac6f-acad-4c37-83aa-99985e5414cd" />
+
 # How it works 💬
 
 **STM32 firmware (CubeIDE)**  
