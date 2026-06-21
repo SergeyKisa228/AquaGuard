@@ -21,6 +21,11 @@ Status reports are repeated periodically (WARNING every 5 s, GOOD every 20 s
 # Schematic ❗
 <img width="632" height="588" alt="Scematic" src="https://github.com/user-attachments/assets/93acac6f-acad-4c37-83aa-99985e5414cd" />
 
+**ESP32**
+ESP32 UART2-RX GPIO16 PA9 (USART1_TX)
+ESP32 UART2-TX GPIO17 PA10 (USART1_RX) 
+ESP32 GND - GND
+
 # How it works 💬
 
 **STM32 firmware (CubeIDE)**  
