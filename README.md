@@ -45,5 +45,5 @@ Status reports are repeated periodically (WARNING every 5 s, GOOD every 20 s
 - Data is relayed to a smartphone via Classic Bluetooth SPP (`BluetoothSerial` library). A PIN code (`11111`) secures the connection.  
 - Optionally, the on‑board LED (GPIO2) can be toggled by commands `'1'` / `'0'` from the phone.
 
-## Автор
+## Author
 👾 **SergeyKisa228** 👾
