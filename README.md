@@ -1,7 +1,7 @@
 # AquaGuard 💧
 A wireless water-leak detector based on STM32F401 and ESP32.   It monitors a water sensor, drives an RGB indicator, and sends instant alerts (`WARNING` / `GOOD`) to a smartphone via Bluetooth Classic.
 
-<img width="720" height="1280" alt="proj" src="https://github.com/user-attachments/assets/1b8af537-ad15-4de9-a335-43266550af79" />
+<img width="720" height="1280" alt="proj" src="https://github.com/user-attachments/assets/b4ee22e5-d0b0-42be-9967-224877475422" />
 
 # Description 🙂
 
